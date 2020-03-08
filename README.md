@@ -1,4 +1,5 @@
 # bitaddress.org
+[![Run on Repl.it](https://repl.it/badge/github/pointbiz/bitaddress.org)](https://repl.it/github/pointbiz/bitaddress.org)
 JavaScript Client-Side Bitcoin Wallet Generator
 
 Now Bitcoin addresses and their corresponding private key can be conveniently 
